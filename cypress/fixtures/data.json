@@ -1,0 +1,7 @@
+{
+  "product1": "Pliers",
+  "product2": "Hammer",
+  "product3": "Wrench",
+  "invalidProduct": "abcdefg12345",
+  "product4": "Drill"
+}
